@@ -1,6 +1,13 @@
 # Description of the iRule
 
-Load balance to different pools based on the host name the client is trying to access.  This allows a single IP address (and virtual server) to host numerous web sites.
+- Source of the iRule
+- Detailed description of the iRule
+
+## Was configuration validated
+```
+Yes/No
+Yes: If the corresponding Avi configuration is already deployed.
+```
 
 ## iRule
 
@@ -10,8 +17,8 @@ iRule Snippet
 
 ## Avi Configuration
 
-```lua
-Avi Configuration
+```
+Corresponding Avi Configuration
 ```
 
 ## Comments
